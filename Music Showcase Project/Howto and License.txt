@@ -1,0 +1,60 @@
+______         _           _       _____  _           _             
+| ___ \       | |         | |     /  ___|| |         | |            
+| |_/ /  ___  | | __  ___ | |__   \ `--. | |_  _   _ | |  ___       
+| ___ \ / _ \ | |/ / / _ \| '_ \   `--. \| __|| | | || | / _ \      
+| |_/ /| (_) ||   < |  __/| | | | /\__/ /| |_ | |_| || ||  __/      
+\____/  \___/ |_|\_\ \___||_| |_| \____/  \__| \__, ||_| \___|      
+                                                __/ |               
+                                               |___/                
+___  ___             _        ______                                
+|  \/  |            (_)       | ___ \                               
+| .  . | _   _  ___  _   ___  | |_/ / _ __   ___   _ __ ___    ___  
+| |\/| || | | |/ __|| | / __| |  __/ | '__| / _ \ | '_ ` _ \  / _ \ 
+| |  | || |_| |\__ \| || (__  | |    | |   | (_) || | | | | || (_) |
+\_|  |_/ \__,_||___/|_| \___| \_|    |_|    \___/ |_| |_| |_| \___/ 
+                                                                    
+                                                                    
+1) First, install the two font files included in your download, they're
+called BebasNeue and Darktech_LDR.
+
+Right click font file > Install
+
+2) Open the music Showcase Project file
+
+3) If you see missing file errors, fix the file associations by doing the
+following steps.
+
+	3.1) Right click SoundCloud Icon.png in the project explorer
+
+	3.2) Click Replace Footage > File
+
+	3.3) Select Music Showcase Project/SoundCloud Icon.png
+
+	3.4) Click import, this should fix your SoundCloud Icon
+
+	3.5) Right click Radi0StaticEDM-Button.png in the project explorer
+
+	3.6) Click Replace Footage > File
+
+	3.7) Select Music Showcase Project/Logo Badge.png
+
+	3.8) Click import, this should fix your Logo Badge
+
+4) To begin editing, drag in your music file into the Music Showcase
+composition, then click on the [Audio Reaction] Layer and click on
+the Audio Layer dropdown and select your music.
+
+5) Scrub to the end on your song, and press N on your keyboard
+
+6) Edit each respective font layer according to the artist name,
+song title, and logo.
+
+7 Optional) Click Color Changer and change the Master Hue to something
+fitting, a nice pink maybe?
+
+8) Export in your prefered Format, upload and enjoy!
+
+This template was created by Versus MC, credit is appreciated but not
+required.
+http://youtube.com/versusmc1
+http://twitter.com/versusmc
